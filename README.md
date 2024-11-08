@@ -51,5 +51,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EichanInIt&theme=radical&langs_count=3" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rinekochan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
