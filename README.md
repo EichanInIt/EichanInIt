@@ -20,3 +20,5 @@
 ## :hammer_and_wrench: Languages and Tools :
 
 ### 💻 Programming : 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
