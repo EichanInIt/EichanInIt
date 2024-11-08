@@ -12,3 +12,7 @@
 
 - 📫 Feel free to reach me out **duongminhhoang.personal.mail@gmail.com**
 <!--Intro end-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+#### :hammer_and_wrench: Languages and Tools :
