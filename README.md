@@ -17,6 +17,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/Rinekochan/EichanInIt/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ## :hammer_and_wrench: Languages and Tools :
 
 ### 💻 Programming : 
