@@ -13,6 +13,8 @@
 - 📫 Feel free to reach me out **duongminhhoang.personal.mail@gmail.com**
 <!--Intro end-->
 
+## 📫 How to reach me: <a href="https://ducanh0285@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="duongminhhoang.personal.mail@gmail.com" height="30" width="40" /> </a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### :hammer_and_wrench: Languages and Tools :
